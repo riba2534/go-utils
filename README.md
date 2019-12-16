@@ -2,6 +2,12 @@
 
 My golang tools.
 
+导入：
+
+```bash
+go get -u github.com/riba2534/go-utils/utils
+```
+
 
 ## 简单的并发程序
 
