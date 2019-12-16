@@ -24,7 +24,7 @@ func main() {
 		// do something..
 	})
 	wg.Wrap(func() {
-		// do somerhing..
+		// do something..
 	})
 	wg.Wait()
 }
