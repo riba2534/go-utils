@@ -1,11 +1,3 @@
-# go-utils
-
-My golang tools.
-
-
-## 简单的并发程序
-
-```go
 package main
 
 import (
@@ -22,5 +14,3 @@ func main() {
 	})
 	wg.Wait()
 }
-
-```
